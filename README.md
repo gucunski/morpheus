@@ -4,7 +4,7 @@
 -----
 A Brilliant Animator.
 
-Morpheus lets you "tween anything" in parallel on multiple elements; from colors to integers of any unit (px, em, %, etc), with easing transitions and bezier curves, including CSS3 [transforms](http://www.w3.org/TR/css3-2d-transforms/) (roate, scale, skew, & translate) -- all in a single high-performant loop utilizing the CPU-friendly [requestAnimationFrame](http://webstuff.nfshost.com/anim-timing/Overview.html) standard.
+Morpheus lets you "tween anything" in parallel on multiple elements; from colors to integers of any unit (px, em, %, etc), with easing transitions and bezier curves, including CSS3 [transforms](http://www.w3.org/TR/css3-2d-transforms/) (rotate, scale, skew, & translate) -- all in a single high-performant loop utilizing the CPU-friendly [requestAnimationFrame](http://webstuff.nfshost.com/anim-timing/Overview.html) standard.
 
 It looks like this:
 
